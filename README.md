@@ -17,4 +17,8 @@ I-am-milhaud1201@github
 ![Jihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=milhaud1201&show_icons=true&theme=react)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyeon-park-a939b3243/)](https://www.linkedin.com/in/jihyeon-park-a939b3243/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milhaud1201@gmail.com)](mailto:milhaud1201@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milhaud1201@gmail.com)](mailto:milhaud1201@gmail.com)  
+
+👀
+Now I'm studying as a member  
+* ♫ [PyTorch] `AudioSignalProcessing`: https://github.com/nuyhc/RhythmStudy
