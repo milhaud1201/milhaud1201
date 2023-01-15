@@ -14,7 +14,6 @@ I-am-milhaud1201@github
 📝 I have a strong interest in Data Analysis and Artificial Intelligence
 🌟 Main languages: Python, MySQL
 ```                   
-![Jihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=milhaud1201&show_icons=true&theme=react)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyeon-park-a939b3243/)](https://www.linkedin.com/in/jihyeon-park-a939b3243/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milhaud1201@gmail.com)](mailto:milhaud1201@gmail.com)  
