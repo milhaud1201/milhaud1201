@@ -12,7 +12,8 @@ I-am-milhaud1201@github
 -------------------------
 💻 Learning about Deep Learning & Machine Learning
 📝 I have a strong interest in Data Analysis and Artificial Intelligence
-🌟 Main languages: Python, MySQL
+🌟 Main languages: Python, MySQL, JavaScript
+🧡 Library: PyTorch, TensorFlow, Pandas, Matplotlib
 ```                   
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyeon-park-a939b3243/)](https://www.linkedin.com/in/jihyeon-park-a939b3243/)
