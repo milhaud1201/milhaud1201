@@ -15,6 +15,7 @@ I-am-milhaud1201@github
 🌟 Main languages: Python, MySQL, JavaScript, Dart
 🧡 Library: PyTorch, TensorFlow, Pandas, Matplotlib
 📂 Framework: Flutter, Django
+🏛 Platform: Firebase
 ```                   
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyeon-park-a939b3243/)](https://www.linkedin.com/in/jihyeon-park-a939b3243/)
