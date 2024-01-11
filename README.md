@@ -27,6 +27,7 @@ Now I'm studying as a member
 
 ✏️I am currently studying
 * 🧮[math] [Mathematics for Machine Learning](https://mml-book.github.io/)
+* 👩🏻‍🏫[LLM] [Prompt for LangChain](https://milhaud1201.github.io/Prompt-for-LangChain/)
 
 ## My Code Gist 🔮
 * https://gist.github.com/milhaud1201
